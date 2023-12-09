@@ -1,0 +1,28 @@
+{
+  "name": "@avinashtare/env_path",
+  "version": "1.0.1",
+  "description": "The env_path middleware is a powerful tool designed to streamline the management of the Windows system environment path. It empowers users to easily control, modify, and enhance their environment variables, providing a seamless experience for developers and system administrators.",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "./lib"
+  },
+  "files": [
+    "./index.js",
+    "./.gitignore",
+    "./readme.md",
+    "example.js"
+  ],
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "paths",
+    "envpaths",
+    "change_env_path",
+    "path_control",
+    "windows_path_change"
+  ],
+  "author": "avinash tare",
+  "license": "MIT"
+}
