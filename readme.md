@@ -1,4 +1,4 @@
-# Env_Path
+# Env Path
 
 A Node.js module for managing the only windows system environment variable `PATH`.
 The env_path middleware is a powerful tool designed to streamline the management of the Windows system environment path. It empowers users to easily control, modify, and enhance their environment variables, providing a seamless experience for developers and system administrators.
